@@ -1,0 +1,9 @@
+ticket
+"Customers cannot reset their password after receiving the email"
+"Mobile app crashes when users open the notification center"
+"Invoice export downloads an empty CSV file"
+"Password reset email arrives but the reset link does not work"
+"Users report that the Android application crashes on notification screen"
+"Dashboard takes more than thirty seconds to load for large accounts"
+"CSV invoice export is blank even though invoices are present"
+"Two-factor authentication code is rejected as expired"

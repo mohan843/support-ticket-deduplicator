@@ -1,0 +1,4 @@
+$ python detector.py "The invoice CSV export is empty" --threshold 0.2
+Matches found: 2
+  [2] similarity=0.613 | Invoice export downloads an empty CSV file
+  [6] similarity=0.461 | CSV invoice export is blank even though invoices are present
